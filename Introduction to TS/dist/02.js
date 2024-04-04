@@ -5,3 +5,4 @@ function getLargestNum(num1, num2, num3) {
 }
 getLargestNum(5, -3, 16);
 getLargestNum(-3, -5, -22.5);
+//# sourceMappingURL=02.js.map

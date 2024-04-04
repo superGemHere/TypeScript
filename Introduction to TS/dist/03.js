@@ -9,3 +9,4 @@ function sumNtoM(num1, num2) {
 }
 sumNtoM('1', '5');
 sumNtoM('-8', '20');
+//# sourceMappingURL=03.js.map

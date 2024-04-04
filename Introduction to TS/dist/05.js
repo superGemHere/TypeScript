@@ -36,3 +36,4 @@ calculator(3, 5.5, '*');
 calculator(3, 2, '**');
 calculator(3, 2, '***');
 calculator(3, 2, 'asd');
+//# sourceMappingURL=05.js.map

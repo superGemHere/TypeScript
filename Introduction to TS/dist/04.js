@@ -20,3 +20,4 @@ PrintDayOfTheWeek('Monday');
 PrintDayOfTheWeek('Friday');
 PrintDayOfTheWeek('Sunday');
 PrintDayOfTheWeek('Invalid');
+//# sourceMappingURL=04.js.map
