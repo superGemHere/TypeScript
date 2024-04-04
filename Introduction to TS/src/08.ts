@@ -8,7 +8,7 @@ function catInfo(arr: string[]): void {
             this.age = age;
         }
 
-        meow(){
+        meow(): void{
             console.log(`${this.name}, age ${this.age} says Meow`)
         }
     }
