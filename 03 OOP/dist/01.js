@@ -25,11 +25,14 @@ class Car {
     set setHoursepower(newPower) {
         this.hoursepower = newPower;
     }
+    carInfo() {
+        console.log(`The car is: ${this.brand} ${this.model} - ${this.hoursepower} HP.`);
+    }
 }
 function carInfo(line) {
     let [brand, model, hp] = line.split(" ");
     let myCar = new Car(brand, model, Number(hp));
-    console.log(`The car is: ${myCar.brand} ${myCar.model} - ${myCar.hoursepower} HP.`);
+    myCar.carInfo();
 }
 carInfo("Chevrolet Impala 390");
 carInfo("Skoda Karoq 150");
