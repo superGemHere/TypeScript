@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "target": "ESNext",                                  
+      "module": "ES2022",                                
+      "rootDir": "./src",
+      "outDir": "./dist",
+    //   "sourceMap": true,
+    }                             
+    
+  }
+  
